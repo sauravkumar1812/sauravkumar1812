@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
-- 🔭 I’m currently working on some Projects Like: <strong>VirtualMeetingReplica</strong>
+- 🔭 I’m currently working on some Projects Like: <strong>Virtual Meeting Replica</strong>
 
 
 - 🌱 I’m currently learning **MERN Stack**
