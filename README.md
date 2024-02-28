@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **DSA**
 
