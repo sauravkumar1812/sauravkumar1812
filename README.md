@@ -10,7 +10,7 @@
         As I continue to tread along my academic and professional path, I aspire to leverage my skills and knowledge to contribute meaningfully to the tech industry, pioneering solutions that address real-world challenges and propel technological advancements forward. With a relentless drive for learning and a determination to make a positive impact, I eagerly anticipate the exciting opportunities that lie ahead in my journey.
     </p>
     <br>
-         
+         <h1>Welcome to My Profile!</h1>
 - 🔭 I’m currently working on some Projects Like: <strong>Virtual Meeting Replica</strong>
 
 
