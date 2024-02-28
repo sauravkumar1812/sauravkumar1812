@@ -1,5 +1,5 @@
-<h2 align="center">Introduction</h2>
- <h1>Introduction</h1>
+<h2 align="center"></h2>
+ <h2>Introduction</h2>
     <p>
         Hello, I'm Saurav Kumar, a passionate third-year B.Tech Computer Science student. With a fervent love for technology, I constantly find myself immersed in the ever-evolving world of software development and computer science innovations.
     </p>
