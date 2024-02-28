@@ -1,5 +1,5 @@
 <h2 align="center">Introduction</h2>
- <h1>About Me: Saurav Kumar</h1>
+ <h1>Introduction</h1>
     <p>
         Hello, I'm Saurav Kumar, a passionate third-year B.Tech Computer Science student. With a fervent love for technology, I constantly find myself immersed in the ever-evolving world of software development and computer science innovations.
     </p>
@@ -9,7 +9,8 @@
     <p>
         As I continue to tread along my academic and professional path, I aspire to leverage my skills and knowledge to contribute meaningfully to the tech industry, pioneering solutions that address real-world challenges and propel technological advancements forward. With a relentless drive for learning and a determination to make a positive impact, I eagerly anticipate the exciting opportunities that lie ahead in my journey.
     </p>
-    <br><br
+    <br><br>
+         
 - 🔭 I’m currently working on some Projects Like: <strong>Virtual Meeting Replica</strong>
 
 
