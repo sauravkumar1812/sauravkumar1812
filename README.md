@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on some Projects Like: <strong>Virtual Meeting Replica</strong>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m  **MERN Stack** Devloper
 
 - 💬 Ask me about **DSA**
 
